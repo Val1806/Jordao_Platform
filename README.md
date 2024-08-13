@@ -24,7 +24,8 @@ All Products : This submenu includes the table Product, which brings together al
 Reference Tables : This submenu groups together the tables containing the reference values ​​linked to temperature, climatic conditions and energy measurements. These tables are all read-only.
 
 Other Features : This submenu brings together all the additional functionalities of the site:  Expansion Valve Orifice Calculation to find the right valve and/or the right orifice according to our needs / simulations.
-Inserting into a table
+
+## Inserting into a table
 
 To insert an entry into any table, here is the procedure:
 
@@ -39,7 +40,7 @@ If everything is correct, you will see a popup with the message “New [nom de l
 If you ever want to cancel an insertion in progress, all you have to do is navigate to another page: the insertion will be automatically canceled.
 
 
-Editing a row in a table
+## Editing a row in a table
 
 To modify the data of an entry in a table, here is the procedure to follow:
 
@@ -58,7 +59,7 @@ If you ever want to cancel a modification in progress, click on the button “Ca
 
 
 
-Deleting one or more rows in a table
+## Deleting one or more rows in a table
 
 To delete one or more rows in a table, here is the procedure to follow:
 
@@ -72,7 +73,7 @@ If you ever want to undo the deletion, click “No”.
 If you ever want to speed up the removal process, you can use the “Select / Deselect All” to select or deselect all rows in the table. It is nevertheless a button to use with caution in order to avoid incorrect manipulations.
 
 
-Generating a documentation PDF
+## Generating a documentation PDF
 
 [This feature only concerns the table Product]
 
@@ -89,7 +90,7 @@ You can then choose the value of Depth that you want to appear on the PDF, as we
 Once all the values ​​are selected, click on the button “Generate PDF”, then “Yes” in order to start generating the PDF. If you ever want to stay on the PDF generation form, click on “No”.
 The download will start automatically when it is ready. If successful, a popup will appear with the following message: “PDF file downloaded successfully”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
 
-Expansion Valve Orifice Calculation
+## Expansion Valve Orifice Calculation
 
 If you want to use the orifice and valve calculation functionality, here are the steps to follow:
 
