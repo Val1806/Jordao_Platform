@@ -29,13 +29,13 @@ We have as submenus:
 
 To insert an entry into any table, here is the procedure:
 
-Click on one of the menu tabs to navigate to a table.
+- Click on one of the menu tabs to navigate to a table.
 
-Click on the button "***Add***” above the table to be redirected to the insert form.
+- Click on the button "***Add***” above the table to be redirected to the insert form.
 
-Enter information for the form fields.
+- Enter information for the form fields.
 
-Once the fields are completed, click on the button “***Insert***” in order to validate your insertion. 
+- Once the fields are completed, click on the button “***Insert***” in order to validate your insertion. 
 If everything is correct, you will see a popup with the message “***New \[table name] inserted successfully***”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
 If you ever want to cancel an insertion in progress, all you have to do is navigate to another page: the insertion will be automatically canceled.
 
