@@ -31,7 +31,7 @@ To insert an entry into any table, here is the procedure:
 
 - Click on one of the menu tabs to navigate to a table.
 
-- Click on the button "***Add***” above the table to be redirected to the insert form.
+- Click on the button "***Add***" above the table to be redirected to the insert form.
 
 - Enter information for the form fields.
 
@@ -44,17 +44,18 @@ If you ever want to cancel an insertion in progress, all you have to do is navig
 
 To modify the data of an entry in a table, here is the procedure to follow:
 
-Select the line whose information you want to edit.
+- Select the line whose information you want to edit.
 
-Click on the button "Edit” above the table to be redirected to the edit form.
+- Click on the button "***Edit***" above the table to be redirected to the edit form.
 
-The fields will be pre-populated with the row's current information. Change the information you want simply by editing the form fields.
+- The fields will be pre-populated with the row's current information. Change the information you want simply by editing the form fields.
 
-Once the changes are made, click on the button “Save Changes” to save your changes, then “Yes”. If you want to stay on the edit form, click “No”.
-If everything is correct, you will see a popup with the message “Changes saved successfully”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
-If you ever want to cancel a modification in progress, click on the button “Cancel”, then “Yes”. If you want to stay on the edit form, click “No”.
+- Once the changes are made, click on the button “***Save Changes***” to save your changes, then “Yes”. If you want to stay on the edit form, click “***No***”.
+If everything is correct, you will see a popup with the message “***Changes saved successfully***”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
+If you ever want to cancel a modification in progress, click on the button “***Cancel***”, then “***Yes***”. If you want to stay on the edit form, click “***No***”.
 
-(Note of 02/08/2024 - For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - Product notably)
+>[!NOTE]
+> \[02/08/2024] For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - ***Product*** notably.
 
 
 
