@@ -55,7 +55,7 @@ If everything is correct, you will see a popup with the message “***Changes sa
 If you ever want to cancel a modification in progress, click on the button “***Cancel***”, then “***Yes***”. If you want to stay on the edit form, click “***No***”.
 
 >[!NOTE]
-> \[02/08/2024] For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - ***Product*** notably.
+> \[02/08/2024] For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - ***Components power attributes*** notably.
 
 
 
@@ -64,45 +64,45 @@ If you ever want to cancel a modification in progress, click on the button “**
 
 To delete one or more rows in a table, here is the procedure to follow:
 
-Select the row(s) you want to delete.
+- Select the row(s) you want to delete.
 
-Click on the button "Remove", Then "Yes” in order to validate the deletion.
-If everything is correct, you will see a popup with the message “Element(s) [deleted elements] saved successfully”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
-If you ever want to undo the deletion, click “No”.
+- Click on the button "***Remove***", then "***Yes***" in order to validate the deletion.
+If everything is correct, you will see a popup with the message “***Element(s) \[deleted_elements] saved successfully***”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
+If you ever want to undo the deletion, click “***No***”.
 
 
-If you ever want to speed up the removal process, you can use the “Select / Deselect All” to select or deselect all rows in the table. It is nevertheless a button to use with caution in order to avoid incorrect manipulations.
+If you ever want to speed up the removal process, you can use the “***Select / Deselect All***” to select or deselect all rows in the table. It is nevertheless a button to use with caution in order to avoid incorrect manipulations.
 
 
 ## Generating a documentation PDF
 
-[This feature only concerns the table Product]
+\[This feature only concerns the table ***Product***]
 
 To generate a documentation PDF for a particular product line, here is the procedure to follow:
 
-Open the drop-down menu on the left (button ☰), then navigate to the section All Products > Product.
+- Open the drop-down menu on the left (button **☰**), then navigate to the section ***All Products*** > ***Product***.
 
-Click on the button "PDF" on the top of the table Product. You will then be redirected to the PDF generation form.
+- Click on the button "***PDF***" on the top of the table ***Product***. You will then be redirected to the PDF generation form.
 
-Once on the page, choose the type of equipment you want to generate the PDF. When selecting equipment, the sections Depth And Length are dynamically updated to display the values ​​available for the chosen equipment.
+- Once on the page, choose the type of equipment you want to generate the PDF. When selecting equipment, the sections ***Depth*** and ***Length*** are dynamically updated to display the values ​​available for the chosen equipment.
 
-You can then choose the value of Depth that you want to appear on the PDF, as well as the different values ​​of Length among those available.
+- You can then choose the value of ***Depth*** that you want to appear on the PDF, as well as the different values ​​of ***Length*** among those available.
 
-Once all the values ​​are selected, click on the button “Generate PDF”, then “Yes” in order to start generating the PDF. If you ever want to stay on the PDF generation form, click on “No”.
-The download will start automatically when it is ready. If successful, a popup will appear with the following message: “PDF file downloaded successfully”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
+- Once all the values ​​are selected, click on the button “***Generate PDF***”, then “***Yes***” in order to start generating the PDF. If you ever want to stay on the PDF generation form, click on “***No***”.
+The download will start automatically when it is ready. If successful, a popup will appear with the following message: “***PDF file downloaded successfully***”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
 
 ## Expansion Valve Orifice Calculation
 
 If you want to use the orifice and valve calculation functionality, here are the steps to follow:
 
-Open the drop-down menu on the left (button ☰), then navigate to the section Other Features > Expansion Valve Orifice Calculation. 
+- Open the drop-down menu on the left (button **☰**), then navigate to the section ***Other Features*** > ***Expansion Valve Orifice Calculation***. 
 
-Please choose the Product for which you want to find the valve and orifice.
+- Please choose the ***Product*** for which you want to find the valve and orifice.
 
-The Cooling Power of Product selected is then automatically retrieved and displayed. 
-However, if you wish to carry out a simulation, you can check the button “Manual” above the reserved field. This will disable the Product selection, and you can then manually change the Cooling Type and the Cooling Power.
+- The ***Cooling Power*** of ***Product*** selected is then automatically retrieved and displayed. 
+However, if you wish to carry out a simulation, you can check the button “***Manual***” above the reserved field. This will disable the ***Product*** selection, and you can then manually change the ***Cooling Type*** and the ***Cooling Power***.
 
-Then select the Gas and the Valve Type that you want to test.
+- Then select the ***Gas*** and the ***Valve Type*** that you want to test.
 
-When all the information is entered, click “Find Orifices” to start the search. You'll also see tube diameter values and available adapters.
+- When all the information is entered, click “***Find Orifices***” to start the search. You'll also see tube diameter values and available adapters.
 If results exist, they will be displayed in a table at the bottom of the page, after the form. Otherwise, you will see a popup if there is no result or an error.
