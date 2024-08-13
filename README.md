@@ -55,7 +55,7 @@ If everything is correct, you will see a popup with the message “***Changes sa
 If you ever want to cancel a modification in progress, click on the button “***Cancel***”, then “***Yes***”. If you want to stay on the edit form, click “***No***”.
 
 >[!NOTE]
-> \[02/08/2024] For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - ***Components power attributes*** notably.
+> \[02/08/2024] For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has an impact too significant on other tables - ***Components power attributes*** notably.
 
 
 
