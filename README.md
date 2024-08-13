@@ -15,15 +15,15 @@ We have as submenus:
 
 - <ins>***Equipment Attributes***</ins> : This submenu brings together the attribute tables which allow you to create a ***Equipment***.
 
-- ***All Equipments*** : This submenu includes the table ***Equipment***, which brings together all the equipment entries in the database.
+- <ins>***All Equipments***</ins> : This submenu includes the table ***Equipment***, which brings together all the equipment entries in the database.
 
-- Components Tables : This submenu groups together the component tables, namely Compressor, Evaporation Fan, Condenser Fan And Blade Condenser. These components, associated with a Equipment, will make it possible to form a Product final.
+- <ins>***Components Tables***</ins> : This submenu groups together the component tables, namely ***Compressor***, ***Evaporation Fan***, ***Condenser Fan*** and ***Blade Condenser***. These components, associated with a ***Equipment***, will make it possible to form a final ***Product***.
 
-- All Products : This submenu includes the table Product, which brings together all the product entries in the database.
+- <ins>***All Products***</ins> : This submenu includes the table ***Product***, which brings together all the product entries in the database.
 
-- Reference Tables : This submenu groups together the tables containing the reference values ​​linked to temperature, climatic conditions and energy measurements. These tables are all read-only.
+- <ins>***Reference Tables***</ins> : This submenu groups together the tables containing the reference values ​​linked to temperature, climatic conditions and energy measurements. These tables are all read-only.
 
-- Other Features : This submenu brings together all the additional functionalities of the site:  Expansion Valve Orifice Calculation to find the right valve and/or the right orifice according to our needs / simulations.
+- <ins>***Other Features***</ins> : This submenu brings together all the additional functionalities of the site: ***Expansion Valve Orifice Calculation*** to find the right valve and/or the right orifice according to our needs / simulations.
 
 ## Inserting into a table
 
@@ -31,12 +31,12 @@ To insert an entry into any table, here is the procedure:
 
 Click on one of the menu tabs to navigate to a table.
 
-Click on the button "Add” above the table to be redirected to the insert form.
+Click on the button "***Add***” above the table to be redirected to the insert form.
 
 Enter information for the form fields.
 
-Once the fields are completed, click on the button “Insert” in order to validate your insertion. 
-If everything is correct, you will see a popup with the message “New [nom de la table] inserted successfully”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
+Once the fields are completed, click on the button “***Insert***” in order to validate your insertion. 
+If everything is correct, you will see a popup with the message “***New \[table name] inserted successfully***”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
 If you ever want to cancel an insertion in progress, all you have to do is navigate to another page: the insertion will be automatically canceled.
 
 
@@ -54,7 +54,7 @@ Once the changes are made, click on the button “Save Changes” to save your c
 If everything is correct, you will see a popup with the message “Changes saved successfully”. Otherwise, a popup with a message telling you the nature of the error will be displayed.
 If you ever want to cancel a modification in progress, click on the button “Cancel”, then “Yes”. If you want to stay on the edit form, click “No”.
 
-(Note you 02/08/2024 - For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - Product notably)
+(Note of 02/08/2024 - For certain tables, the editing functionalities are deliberately disabled, the logic behind not yet being developed because the editing of certain information has too significant an impact on other tables - Product notably)
 
 
 
