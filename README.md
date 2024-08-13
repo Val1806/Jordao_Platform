@@ -4,7 +4,7 @@ Here's the user manual.
 
 # I) Home page and navigation
 
-When you arrive on the site, you come across the platform’s home page. You will find the drop-down menu on the left of the screen, which will allow you to access the different tables and functionalities of the site. You can close the menu by clicking on the icon  ☰  at the top left of the screen. At any time, you can return to this home page by clicking on the 🏠︎ icon at the top left of the screen.
+When you arrive on the site, you come across the platform’s home page. You will find the drop-down menu on the left of the screen, which will allow you to access the different tables and functionalities of the site. You can close the menu by clicking on the icon **☰** at the top left of the screen. At any time, you can return to this home page by clicking on the **🏠︎** icon at the top left of the screen.
 
 
 
@@ -13,17 +13,17 @@ When you arrive on the site, you come across the platform’s home page. You wil
 As indicated previously, the menu tabs allow you to access the different tables in the database.
 We have as submenus:
 
-Equipment Attributes : This submenu brings together the attribute tables which allow you to create a Equipment.
+- <ins>***Equipment Attributes***</ins> : This submenu brings together the attribute tables which allow you to create a ***Equipment***.
 
-All Equipments : This submenu includes the table Equipment, which brings together all the equipment entries in the database.
+- ***All Equipments*** : This submenu includes the table ***Equipment***, which brings together all the equipment entries in the database.
 
-Components Tables : This submenu groups together the component tables, namely Compressor, Evaporation Fan, Condenser Fan And Blade Condenser. These components, associated with a Equipment, will make it possible to form a Product final.
+- Components Tables : This submenu groups together the component tables, namely Compressor, Evaporation Fan, Condenser Fan And Blade Condenser. These components, associated with a Equipment, will make it possible to form a Product final.
 
-All Products : This submenu includes the table Product, which brings together all the product entries in the database.
+- All Products : This submenu includes the table Product, which brings together all the product entries in the database.
 
-Reference Tables : This submenu groups together the tables containing the reference values ​​linked to temperature, climatic conditions and energy measurements. These tables are all read-only.
+- Reference Tables : This submenu groups together the tables containing the reference values ​​linked to temperature, climatic conditions and energy measurements. These tables are all read-only.
 
-Other Features : This submenu brings together all the additional functionalities of the site:  Expansion Valve Orifice Calculation to find the right valve and/or the right orifice according to our needs / simulations.
+- Other Features : This submenu brings together all the additional functionalities of the site:  Expansion Valve Orifice Calculation to find the right valve and/or the right orifice according to our needs / simulations.
 
 ## Inserting into a table
 
